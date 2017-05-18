@@ -2,6 +2,12 @@
 
 * Attach messages by mids with 'A' in new emails.
 
+* Move icons in thread-index to tag line
+
+* Allow user configured tag icons
+
+* Use color to indicate whether a message is marked in thread-index.
+
 == v0.9.1 / 2017-04-30
 
 * Support old vte3.
